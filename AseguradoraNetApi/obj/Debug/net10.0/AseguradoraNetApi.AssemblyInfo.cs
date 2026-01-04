@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AseguradoraNetApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd15d34144d55e06a2524904bb088ba587416b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db2f51cde0aa578ef6cf1e64a63706beb259e863")]
 [assembly: System.Reflection.AssemblyProductAttribute("AseguradoraNetApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AseguradoraNetApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
